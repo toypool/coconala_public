@@ -19,7 +19,7 @@ If you've not yet installed Python, please get it [here](https://www.python.org/
 
 During your installation, make sure that the box saing "PATH to Python 3.6" is checked.
 
-### 2. create an virtual environment using venv.
+### 2. create an virtual environment using venv. ( on command line)
 After you succeeded installing python, move to the directory on which you want to develop this application.
 
 And try this
