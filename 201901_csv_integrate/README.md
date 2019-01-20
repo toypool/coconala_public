@@ -15,16 +15,20 @@
 
 ## Install
 1. Install Python 
+
 If you've not yet installed Python, please get it [here](https://www.python.org/downloads/windows/)
+
 During your installation, make sure that the box saing "PATH to Python 3.6" is checked.
 
 2. create an virtual environment using venv.
+
 After you succeeded installing python, move to the directory on which you want to develop this application.
+
 And try this
 
-'''
+```
 python -m venv env
-'''
+```
 
 
 ## Contribution
