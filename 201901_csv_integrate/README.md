@@ -46,4 +46,4 @@ And try these commands on commandline
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[toypool](https://github.com/toypool)
