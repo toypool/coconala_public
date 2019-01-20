@@ -1,10 +1,5 @@
 ﻿# 201901_csv_integrate
- 
-====
-
-## Overview
-
-Create an exe file which integrate some csv files, written in Python 3.6.
+201901_csv_integrate contains files which create an exe file which integrate some csv files, written in Python 3.6.
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmHIIJD4qC1dOZQ8Bax7l9ZK7bJHNnonUnJ3rswRfAkFLuXQmrQ)
 
@@ -20,7 +15,17 @@ Create an exe file which integrate some csv files, written in Python 3.6.
 
 ## Install
 1. Install Python 
-if you've not yet installed Python, please get it [here](https://www.python.org/downloads/windows/)
+If you've not yet installed Python, please get it [here](https://www.python.org/downloads/windows/)
+During your installation, make sure that the box saing "PATH to Python 3.6" is checked.
+
+2. create an virtual environment using venv.
+After you succeeded installing python, move to the directory on which you want to develop this application.
+And try this
+
+'''
+python -m venv env
+'''
+
 
 ## Contribution
 
