@@ -25,6 +25,8 @@ After you succeeded installing python, move to the directory on which you want t
 And try this
 
 ```
+# move to your directory
+cd "your directory"
 # create venv
 >python -m venv env
 # activate env
