@@ -26,11 +26,14 @@ And try this
 
 ```
 # move to your directory
-cd "your directory"
+>cd "your directory"
+
 # create venv
 >python -m venv env
+
 # activate env
 >env/Script/activate
+
 # install modules
 >pip install -r requirements.txt
 ```
