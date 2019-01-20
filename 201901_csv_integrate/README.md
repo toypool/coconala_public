@@ -27,9 +27,13 @@ After you succeeded installing python, move to the directory on which you want t
 And try this
 
 ```
-python -m venv env
+# create venv
+>python -m venv env
+# activate env
+>env/Script/activate
+# install modules
+>pip install -r requirements.txt
 ```
-
 
 ## Contribution
 
