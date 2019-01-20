@@ -19,6 +19,8 @@ Create an exe file which integrate some csv files, written in Python 3.6.
 ## Usage
 
 ## Install
+1. Install Python 
+if you've not yet installed Python, please get it [here](https://www.python.org/downloads/windows/)
 
 ## Contribution
 
